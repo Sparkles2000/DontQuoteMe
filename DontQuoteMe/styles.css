@@ -16,7 +16,7 @@ h1 {
 
 h2 {
     color: rgb(226, 43, 144);
-    font-style: normal;
+    font-style: oblique;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 }
@@ -28,6 +28,10 @@ h3 {
     text-align: center;
 }
 div {
+    border-width: 3%;
+    border-inline-start-style: groove;
+    border: blueviolet;
+    border-radius: 3%;
     box-sizing: border-box;
     text-align: center;
     font-size: 150%;
@@ -36,6 +40,7 @@ div {
     justify-content: center;
     padding: 3%;
     color:blueviolet
+    
 }
 p{
     font-size: 50%;
