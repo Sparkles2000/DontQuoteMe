@@ -1,6 +1,6 @@
 html {
     background-repeat: repeat-y;
-    background:  no-repeat;
+    background: url("https://source.unsplash.com/user/erondu") no-repeat;
     background-size: cover;
 }
 body{
@@ -9,20 +9,20 @@ body{
 
 h1 {
     text-align: center;
-    color: black;
+    color: rgb(20, 228, 65);
     font-style: normal;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 h2 {
-    color: black;
+    color: rgb(226, 43, 144);
     font-style: normal;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 }
 
 h3 {
-    color: black;
+    color: rgb(143, 10, 54);
     font-style: oblique;
     font-family: cursive;
     text-align: center;
@@ -30,11 +30,12 @@ h3 {
 div {
     box-sizing: border-box;
     text-align: center;
-    font-size: 200%;
+    font-size: 150%;
     font-family: cursive;
     font-style: oblique;
     justify-content: center;
-    padding: 10%;
+    padding: 3%;
+    color:blueviolet
 }
 p{
     font-size: 50%;
