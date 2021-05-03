@@ -1,0 +1,41 @@
+html {
+    background-repeat: repeat-y;
+    background:  no-repeat;
+    background-size: cover;
+}
+body{
+    padding: 3%;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    color: black;
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+h3 {
+    color: black;
+    font-style: oblique;
+    font-family: cursive;
+    text-align: center;
+}
+div {
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 200%;
+    font-family: cursive;
+    font-style: oblique;
+    justify-content: center;
+    padding: 10%;
+}
+p{
+    font-size: 50%;
+}
